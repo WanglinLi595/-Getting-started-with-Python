@@ -22,6 +22,7 @@ docs\       # 存放教程
 pic\        # 存放教程中所使用的图片
 LICENSE     # 项目许可证
 README.md   # 项目简介文件
+.gitignore  # 上传到 GitHub 时，忽略文件
 ```
 
 ## 项目说明
@@ -35,6 +36,10 @@ README.md   # 项目简介文件
 无
 ```
 
+## 作者
+
+黎旺林 联系邮箱：1156494696@qq.com
+
 ## 许可证
 
-本开源项目使用MIT许可证，具体说明请查看 [LICENSE](https://github.com/WanglinLi595/version-control/blob/master/LICENSE) 文件。
+本开源项目使用 MIT 许可证，具体说明请查看 [LICENSE](https://github.com/WanglinLi595/version-control/blob/master/LICENSE) 文件。
