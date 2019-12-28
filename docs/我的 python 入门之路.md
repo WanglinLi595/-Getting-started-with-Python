@@ -18,15 +18,15 @@
 
 <!-- code_chunk_output -->
 
-- [我的 python 入门之路](#我的-python-入门之路)
-  - [一. python 介绍](#一-python-介绍)
-    - [1. python 简介](#1-python-简介)
-    - [2. python 的应用领域](#2-python-的应用领域)
-    - [3. python 的未来发展](#3-python-的未来发展)
-  - [二. 个人学习 python 的经历](#二-个人学习-python-的经历)
-    - [1. 学习 python 的原因](#1-学习-python-的原因)
-    - [2. 学习 python 中遇到的问题](#2-学习-python-中遇到的问题)
-  - [三. 总结](#三-总结)
+- [我的 python 入门之路](#%e6%88%91%e7%9a%84-python-%e5%85%a5%e9%97%a8%e4%b9%8b%e8%b7%af)
+  - [一. python 介绍](#%e4%b8%80-python-%e4%bb%8b%e7%bb%8d)
+    - [1. python 简介](#1-python-%e7%ae%80%e4%bb%8b)
+    - [2. python 的应用领域](#2-python-%e7%9a%84%e5%ba%94%e7%94%a8%e9%a2%86%e5%9f%9f)
+    - [3. python 的未来发展](#3-python-%e7%9a%84%e6%9c%aa%e6%9d%a5%e5%8f%91%e5%b1%95)
+  - [二. 个人学习 python 的经历](#%e4%ba%8c-%e4%b8%aa%e4%ba%ba%e5%ad%a6%e4%b9%a0-python-%e7%9a%84%e7%bb%8f%e5%8e%86)
+    - [1. 学习 python 的原因](#1-%e5%ad%a6%e4%b9%a0-python-%e7%9a%84%e5%8e%9f%e5%9b%a0)
+    - [2. 学习 python 中遇到的问题](#2-%e5%ad%a6%e4%b9%a0-python-%e4%b8%ad%e9%81%87%e5%88%b0%e7%9a%84%e9%97%ae%e9%a2%98)
+  - [三. 总结](#%e4%b8%89-%e6%80%bb%e7%bb%93)
 
 <!-- /code_chunk_output -->
 
@@ -56,7 +56,7 @@
 
 - Python 是一门更接近自然语言的语言，或者说逻辑上更接近人的逻辑而不是机器的逻辑，这导致它虽然牺牲了一部分机器的效率但是却提高了人的编译效率。
 - Python 代码十分的简洁，简洁到以前 C 里面要十几行代码完成的事情，到 Python 里面可能只需要几行。
-- Python有十分多的内置函数。很多内容你都不需要自己去定义，直接调用函数就好了。
+- Python有十分多的内置函数。很多内容你都不需要自己去定义，直接调用函数就好了。  
 参考：[知乎 为什么很多人都说 Python 简单？](https://www.zhihu.com/question/64385692)
 
 2). python 功能强大
@@ -84,7 +84,7 @@
 
 - 接下来，我就以我的代码演变过程为例，讲述 python 的一些编码规范
 
-A. 变量名规范
+A. 变量名规范  
 ![code_style](https://github.com/WanglinLi595/Save_Markdown_Picture/blob/master/python%20%E5%85%A5%E9%97%A8%E4%B9%8B%E8%B7%AF/code_style.png?raw=true)  
 
 - 图中的变量名有两个地方的错误：
@@ -122,7 +122,7 @@ D. 注释
 2). python 目录结构
 
 - 在进行 python 项目的时候，具有清晰的目录结构也是十分重要的事情。因为只有清晰的目录结构，才能方便以后项目内容的扩充和移植。
-- 首先附上两张图。第一张是我初学 python 时的目录结构图，第二张是我学习 python 一段时间后的目录结构图。
+- 首先附上两张图。第一张是我初学 python 时的目录结构图，第二张是我学习 python 一段时间后的目录结构图。  
 图一
 ![structure](https://raw.githubusercontent.com/WanglinLi595/Save_Markdown_Picture/master/python%20%E5%85%A5%E9%97%A8%E4%B9%8B%E8%B7%AF/strcuture.png)  
 图二
