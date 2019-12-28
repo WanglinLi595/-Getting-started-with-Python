@@ -91,7 +91,7 @@ A. 变量名规范
   1. 在 python 中变量名是小写字母、数字、下划线的组合。而图中使用的是小驼峰命名法。
   2. 在取变量名时，应该根据变量的作用去取名，而不是乱取。取名应该做到，当别人看到你的变量名时就能明白它的作用。
   
-修改后的代码：
+修改后的代码：  
 ![code_style2](https://github.com/WanglinLi595/Save_Markdown_Picture/blob/master/python%20%E5%85%A5%E9%97%A8%E4%B9%8B%E8%B7%AF/code_style2.png?raw=true)
 
 B. 模块名规范
